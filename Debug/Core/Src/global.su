@@ -1,0 +1,7 @@
+global.c:33:10:get_sensor	8	static
+global.c:43:6:check_ok	8	static
+global.c:51:6:HAL_UART_RxCpltCallback	16	static
+global.c:64:6:command_parser_fsm	16	static
+global.c:131:6:main_command_parser	16	static
+global.c:139:6:uart_communication_fsm	4	static
+global.c:144:6:main_fsm	8	static
